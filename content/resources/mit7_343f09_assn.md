@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 6dbf9bf8-644f-b4bb-cbe4-033b68618545
 resourcetype: Document
 title: Papers for oral presentation
 uid: 3bfb3258-1260-960d-6dcb-24da5d600757
