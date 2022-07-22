@@ -5,6 +5,7 @@ file: /courses/7-343-when-development-goes-awry-how-cancer-co-opts-mechanisms-of
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Papers for oral presentation
 uid: 3bfb3258-1260-960d-6dcb-24da5d600757
 ---
 Instructions for an oral presentation assignment.
-
