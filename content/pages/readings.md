@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides the list of readings assigned for each lecture
+  topic of the course.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 922aff84-10b0-3faa-42cc-0aa26dbbc09f
 ---
@@ -29,7 +34,7 @@ READINGS
 
 Introduction to the course
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#First,_we_will_get)
+{{% resource_link 94e825a5-92f6-d684-e56b-20248217f393 "See the Lecture Summary" "#First,_we_will_get" %}}
 
 
 {{< tdclose >}}
@@ -47,7 +52,7 @@ Introduction to the course
 
 Uncontrolled proliferation: Sonic hedgehog signaling in the developing brain and brain tumors
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Out-of-control_cell)
+{{% resource_link 94e825a5-92f6-d684-e56b-20248217f393 "See the Lecture Summary" "#Out-of-control_cell" %}}
 
 
 {{< tdclose >}}
@@ -71,7 +76,7 @@ Berman, D. M., et al. "[Medulloblastoma Growth Inhibition by Hedgehog Pathway Bl
 
 Proto-oncogenes at the root of developmental disorders and cancer: the example of K-ras
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Proto-oncogenes)
+{{% resource_link 94e825a5-92f6-d684-e56b-20248217f393 "See the Lecture Summary" "#Proto-oncogenes" %}}
 
 
 {{< tdclose >}}
@@ -95,7 +100,7 @@ Schubbert S., et al. "[Germline _KRAS_ Mutations Cause Noonan Syndrome](http://w
 
 To live or to die: the general principles of apoptosis
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Apoptosis__the)
+{{% resource_link 94e825a5-92f6-d684-e56b-20248217f393 "See the Lecture Summary" "#Apoptosis__the" %}}
 
 
 {{< tdclose >}}
@@ -119,7 +124,7 @@ Mathas S., et al. "[c-FLIP Mediates Resistance of Hodgkin/Reed-Sternberg Cells t
 
 Liver apoptosis: the case of NF-kappaB
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#We_will_discuss)
+{{% resource_link 94e825a5-92f6-d684-e56b-20248217f393 "See the Lecture Summary" "#We_will_discuss" %}}
 
 
 {{< tdclose >}}
@@ -143,7 +148,7 @@ Luedde, T., N. Beraza, V. Kotsikoris, G. van Loo, A. Nenci, R. De Vos, T. Roskam
 
 Stem cells and self-renewal
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Self-renewal)
+{{% resource_link 94e825a5-92f6-d684-e56b-20248217f393 "See the Lecture Summary" "#Self-renewal" %}}
 
 
 {{< tdclose >}}
@@ -167,7 +172,7 @@ Morin, P. J., A. B. Sparks, V. Korinek, N. Barker, H. Clevers, B. Vogelstein, an
 
 Angiogenesis: the formation of new blood vessels and the role of VEGF
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#For_tumors)
+{{% resource_link 94e825a5-92f6-d684-e56b-20248217f393 "See the Lecture Summary" "#For_tumors" %}}
 
 
 {{< tdclose >}}
@@ -191,7 +196,7 @@ Inoue, M., J. H. Hager, N. Ferrara, H. P. Gerber, and D. Hanahan. "[VEGF-A has a
 
 Metastasis, the lethal spread of cancer
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Most_cancer)
+{{% resource_link 94e825a5-92f6-d684-e56b-20248217f393 "See the Lecture Summary" "#Most_cancer" %}}
 
 
 {{< tdclose >}}
@@ -215,7 +220,7 @@ Yang, J., et al. "[Twist, a Master Regulator of Morphogenesis, Plays an Essentia
 
 Metastasis part II: the case of TGF-Beta
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#The_transforming)
+{{% resource_link 94e825a5-92f6-d684-e56b-20248217f393 "See the Lecture Summary" "#The_transforming" %}}
 
 
 {{< tdclose >}}
@@ -239,7 +244,7 @@ Cui, W., D. J. Fowlis, S. Bryson, E. Duffie, H. Ireland, A. Balmain, and R. J. A
 
 Growth factor signaling: from normal function to clinical treatment
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Growth_factors)
+{{% resource_link 94e825a5-92f6-d684-e56b-20248217f393 "See the Lecture Summary" "#Growth_factors" %}}
 
 
 {{< tdclose >}}
@@ -263,7 +268,7 @@ Lynch, T. J., et al. "[Activating Mutations in the Epidermal Growth Factor Recep
 
 MicroRNAs in development and cancer
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#MicroRNAs_are)
+{{% resource_link 94e825a5-92f6-d684-e56b-20248217f393 "See the Lecture Summary" "#MicroRNAs_are" %}}
 
 
 {{< tdclose >}}
@@ -287,7 +292,7 @@ He, L., et al. "[A MicroRNA Polycistron as a Potential Human Oncogene](http://ww
 
 Final class
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#In_addition)
+{{% resource_link 94e825a5-92f6-d684-e56b-20248217f393 "See the Lecture Summary" "#In_addition" %}}
 
 
 {{< tdclose >}}

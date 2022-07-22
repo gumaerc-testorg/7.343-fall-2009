@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: 'This section provides information on the two assignments for this course:
+  a written assignment and an oral assignment.'
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 6dbf9bf8-644f-b4bb-cbe4-033b68618545
 ---
@@ -16,4 +21,4 @@ Oral Assignment (due during Ses #12)
 
 We will distribute a paper per student or group of two students during Ses #11. Each student or group will use PowerPoint to present the paper, including a brief introduction, 4 figures, and a summary. A critical analysis of the paper should be presented by the students. For each figure, answer the following questions: what is the question that the authors are addressing? What are the experiments and techniques used to address the question? What are the controls for the experiments? What is the conclusion stated by the authors? Is this conclusion substantiated? Most importantly, students should identify the key figure(s)/table(s) of the paper and the key control experiment(s) for that figure or table. Presentations will be 15 minutes followed by 5 minutes of discussion with the audience.
 
-Instructions for oral presentation ([PDF]({{< baseurl >}}/resources/mit7_343f09_assn))
+Instructions for oral presentation ({{% resource_link 3bfb3258-1260-960d-6dcb-24da5d600757 "PDF" %}})
